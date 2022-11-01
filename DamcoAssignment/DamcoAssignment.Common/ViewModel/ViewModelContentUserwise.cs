@@ -15,16 +15,9 @@ namespace DamcoAssignment.Common.ViewModel
         public DateTime? Doc { get; set; }
         public string Topic { get; set; }
         public string Template { get; set; }
-        public bool? IsDeleted { get; set; }
-        public DateTime? Dod { get; set; }
-      
+        public bool? IsDeleted { get; set; }  
         public string UserName { get; set; }
       
-        public DateTime? Dol { get; set; }
-        public string Roles { get; set; }
-        public bool? IsActive { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
-        public string Token { get; set; }
+        
     }
 }
