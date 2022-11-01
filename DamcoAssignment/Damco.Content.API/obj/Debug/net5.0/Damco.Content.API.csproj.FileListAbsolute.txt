@@ -1,0 +1,31 @@
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\appsettings.Development.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\appsettings.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\Damco.Content.API.exe
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\Damco.Content.API.deps.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\Damco.Content.API.runtimeconfig.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\Damco.Content.API.runtimeconfig.dev.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\Damco.Content.API.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\Damco.Content.API.pdb
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.csproj.AssemblyReference.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.AssemblyInfoInputs.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.AssemblyInfo.cs
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.csproj.CoreCompileInputs.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.MvcApplicationPartsAssemblyInfo.cs
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.MvcApplicationPartsAssemblyInfo.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\scopedcss\bundle\Damco.Content.API.styles.css
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\staticwebassets\Damco.Content.API.StaticWebAssets.Manifest.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.RazorTargetAssemblyInfo.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.csproj.CopyComplete
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\refint\Damco.Content.API.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.pdb
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.genruntimeconfig.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\ref\Damco.Content.API.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\refint\Damco.Content.API.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net5.0\Damco.Content.API.pdb

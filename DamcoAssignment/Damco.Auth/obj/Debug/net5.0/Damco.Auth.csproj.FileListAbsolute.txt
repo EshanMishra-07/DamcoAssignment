@@ -1,0 +1,31 @@
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\appsettings.Development.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\appsettings.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\Damco.Auth.exe
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\Damco.Auth.deps.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\Damco.Auth.runtimeconfig.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\Damco.Auth.runtimeconfig.dev.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\Damco.Auth.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\Damco.Auth.pdb
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.csproj.AssemblyReference.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.GeneratedMSBuildEditorConfig.editorconfig
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.AssemblyInfoInputs.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.AssemblyInfo.cs
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.csproj.CoreCompileInputs.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.MvcApplicationPartsAssemblyInfo.cs
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.MvcApplicationPartsAssemblyInfo.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\scopedcss\bundle\Damco.Auth.styles.css
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\staticwebassets\Damco.Auth.StaticWebAssets.Manifest.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.RazorTargetAssemblyInfo.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.csproj.CopyComplete
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\refint\Damco.Auth.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.pdb
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.genruntimeconfig.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\ref\Damco.Auth.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\refint\Damco.Auth.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Auth\obj\Debug\net5.0\Damco.Auth.pdb

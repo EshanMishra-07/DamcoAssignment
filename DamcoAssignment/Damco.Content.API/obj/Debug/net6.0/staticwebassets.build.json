@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VIqGbeWTmSKB1hsoRqKhOwpaJN10E03oOaishtofpn8=",
+  "Source": "Damco.Content.API",
+  "BasePath": "_content/Damco.Content.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

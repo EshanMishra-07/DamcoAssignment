@@ -1,0 +1,28 @@
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\bin\Debug\net6.0\DamcoAssignment.Common.deps.json
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\bin\Debug\net6.0\DamcoAssignment.Common.runtimeconfig.json
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\bin\Debug\net6.0\DamcoAssignment.Common.dll
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\bin\Debug\net6.0\DamcoAssignment.Common.pdb
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.csproj.AssemblyReference.cache
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.GeneratedMSBuildEditorConfig.editorconfig
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.AssemblyInfoInputs.cache
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.AssemblyInfo.cs
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.csproj.CoreCompileInputs.cache
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.dll
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\refint\DamcoAssignment.Common.dll
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.pdb
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.genruntimeconfig.cache
+G:\Angular and WebApi Project\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\ref\DamcoAssignment.Common.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\bin\Debug\net6.0\DamcoAssignment.Common.deps.json
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\bin\Debug\net6.0\DamcoAssignment.Common.runtimeconfig.json
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\bin\Debug\net6.0\DamcoAssignment.Common.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\bin\Debug\net6.0\DamcoAssignment.Common.pdb
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.AssemblyInfo.cs
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\refint\DamcoAssignment.Common.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.pdb
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\DamcoAssignment.Common.genruntimeconfig.cache
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\DamcoAssignment.Common\obj\Debug\net6.0\ref\DamcoAssignment.Common.dll

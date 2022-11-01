@@ -1,0 +1,132 @@
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\appsettings.Development.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\appsettings.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Damco.Content.API.exe
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Damco.Content.API.deps.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Damco.Content.API.runtimeconfig.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Damco.Content.API.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Damco.Content.API.pdb
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.csproj.AssemblyReference.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.AssemblyInfoInputs.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.AssemblyInfo.cs
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.csproj.CoreCompileInputs.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.MvcApplicationPartsAssemblyInfo.cs
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.MvcApplicationPartsAssemblyInfo.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\staticwebassets.build.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\staticwebassets.development.json
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\scopedcss\bundle\Damco.Content.API.styles.css
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.csproj.CopyComplete
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\refint\Damco.Content.API.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.pdb
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.genruntimeconfig.cache
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\ref\Damco.Content.API.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\DamcoAssignment.Common.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\DamcoAssignment.Common.pdb
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Humanizer.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Angular and WebApi Project\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Damco.Content.API.exe
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Damco.Content.API.deps.json
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Damco.Content.API.runtimeconfig.json
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Damco.Content.API.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Damco.Content.API.pdb
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\DamcoAssignment.Common.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\DamcoAssignment.Common.pdb
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.AssemblyInfo.cs
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\scopedcss\bundle\Damco.Content.API.styles.css
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.csproj.CopyComplete
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\refint\Damco.Content.API.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.pdb
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\Damco.Content.API.genruntimeconfig.cache
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\obj\Debug\net6.0\ref\Damco.Content.API.dll
+C:\Users\User\Downloads\DamcoAssignment-20221101T051503Z-001\DamcoAssignment\Damco.Content.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PdNTwZgSQdMUO4lmVY4DElVgZW9vukNa9XT9D/+PzDo=",
+  "Source": "Damco.APIGateway",
+  "BasePath": "_content/Damco.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
